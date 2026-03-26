@@ -1,69 +1,88 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0A192F,60:00D9FF,100:7C3AED&height=220&section=header&text=Abhi&fontSize=80&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
+<!-- Animated Wave Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0A192F,60:00D9FF,100:7C3AED&height=230&section=header&text=Hey%2C%20I'm%20Abhishek%20%F0%9F%91%8B&fontSize=55&fontColor=FFFFFF&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20%7C%20Builder&descAlignY=62&descSize=20&animation=fadeIn"/>
 
-<!-- Dynamic Greeting -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;I+build+scalable+full-stack+applications;React+%E2%9A%A1+Node.js+%E2%9A%A1+TypeScript;Open+Source+Contributor+%F0%9F%94%93;Always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%9A%80;Full+Stack+Developer+%7C+React+%2B+Node.js;Building+scalable+%26+beautiful+web+apps;Open+Source+Contributor+%F0%9F%94%93;Always+learning%2C+always+shipping+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Profile Views + Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=abhideveloper0-a11y&label=Profile+Views&color=00D9FF&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/abhideveloper0-a11y?label=Followers&style=flat-square&color=7C3AED)](https://github.com/abhideveloper0-a11y)
+![Profile Views](https://komarev.com/ghpvc/?username=abhishektech04&label=Profile+Views&color=00D9FF&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/abhishektech04?label=Followers&style=flat-square&color=7C3AED)](https://github.com/abhishektech04)
+![GitHub User's stars](https://img.shields.io/github/stars/abhishektech04?style=flat-square&color=FF6B6B&label=Total+Stars)
 
 </div>
 
 ---
 
-## 🧠 About Me
+<img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+## 🧑‍💻 About Me
 
 ```typescript
-const abhi = {
-  role       : "Full Stack Developer",
-  location   : "India 🇮🇳",
-  focus      : ["React", "Node.js", "TypeScript", "System Design"],
-  learning   : ["Web3", "Cloud Architecture", "DevOps"],
-  openTo     : ["Collaborations", "Open Source", "Freelance Projects"],
-  funFact    : "I ship code at midnight and debug at 2AM ☕",
+const abhishek = {
+  role        : "Full Stack Developer",
+  location    : "India 🇮🇳",
+  currentFocus: ["React", "Node.js", "TypeScript"],
+  learning    : ["Docker 🐳", "Linux 🐧", "Web3 ⛓️"],
+  passion     : "Building products that matter",
+  openTo      : ["Collabs", "Open Source", "Freelance"],
+  funFact     : "I debug at 2AM with cold coffee ☕",
 } as const;
 ```
 
+- 🔭 Currently working on **Full Stack Projects**
+- 🌱 Learning **Docker, Linux & Cloud Architecture**
+- 💡 Love turning ideas into **production-ready apps**
+- 🤝 Open to **collaborations & open source contributions**
+- ⚡ Night owl developer — best code written after midnight
+
+<br clear="right"/>
+
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
 <div align="center">
 
-### ⚡ Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=openjdk&logoColor=white)
+### 💻 Languages
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF008F?style=for-the-badge&logo=framer&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python&theme=dark&perline=5" />
 
-### 🔧 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+### ⚛️ Frontend
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass&theme=dark&perline=5" />
 
-### ☁️ DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🔧 Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,redis&theme=dark&perline=5" />
+
+### 🐧 DevOps & Tools *(Currently Learning)*
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode&theme=dark&perline=5" />
+
+### ☁️ Platforms
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,postman&theme=dark&perline=4" />
+
+</div>
+
+---
+
+## 📊 Skill Proficiency
+
+<div align="center">
+
+| Skill | Level | Progress |
+|-------|-------|----------|
+| HTML & CSS | Advanced | ████████████████████ 95% |
+| JavaScript | Advanced | ███████████████████░ 90% |
+| React.js | Advanced | ██████████████████░░ 85% |
+| Tailwind CSS | Advanced | ██████████████████░░ 85% |
+| Node.js | Intermediate | ████████████████░░░░ 75% |
+| Python | Intermediate | ███████████████░░░░░ 70% |
+| Linux | Learning 🌱 | ██████████░░░░░░░░░░ 50% |
+| Docker | Learning 🌱 | █████████░░░░░░░░░░░ 45% |
 
 </div>
 
@@ -73,33 +92,34 @@ const abhi = {
 
 <div align="center">
 
-| Project | Description | Stack | Live |
-|--------|-------------|-------|------|
-| 🎬 **Video Editor Portfolio** | Professional portfolio for a video editing client — responsive, animated, performance-optimized | React · Tailwind · Framer Motion | [![Live](https://img.shields.io/badge/Live-00D9FF?style=flat-square&logo=vercel&logoColor=black)](https://aashishloop27.vercel.app/) |
-| 🔧 **More Projects** | Currently building in stealth 👀 | ... | 🔜 Soon |
+| 🏷️ Project | 📝 Description | 🔧 Stack | 🌐 Live |
+|-----------|---------------|---------|--------|
+| 🎬 **Video Editor Portfolio** | Professional portfolio for a video editing client — animated, responsive & blazing fast | React · Tailwind · Framer Motion | [![Live](https://img.shields.io/badge/Live-00D9FF?style=flat-square&logo=vercel&logoColor=black)](https://aashishloop27.vercel.app/) |
+| 🔧 **Project #2** | Coming soon... 👀 | React · Node.js · MongoDB | 🔜 |
+| ⚡ **Project #3** | Building in stealth mode 🚀 | Next.js · PostgreSQL | 🔜 |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhideveloper0-a11y&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhideveloper0-a11y&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=abhishektech04&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=FFFFFF"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishektech04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhideveloper0-a11y&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=7C3AED&fire=FF6B6B&currStreakLabel=00D9FF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishektech04&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=7C3AED&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=888888)
 
 </div>
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhideveloper0-a11y&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=7C3AED&point=FFFFFF)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishektech04&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=7C3AED&point=FFFFFF&area=true&area_color=7C3AED)
 
 </div>
 
@@ -109,21 +129,35 @@ const abhi = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=abhideveloper0-a11y&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8)
+![Trophies](https://github-profile-trophy.vercel.app/?username=abhishektech04&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)
 
 </div>
 
 ---
 
-## 🌐 Let's Connect
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishektech04/abhishektech04/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishektech04/abhishektech04/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/abhishektech04/abhishektech04/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhideveloper0@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/your_handle)
+[![Twitter / X](https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/your_handle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](your-portfolio-url)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhideveloper0-a11y)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhishektech04)
 
 </div>
 
@@ -131,8 +165,24 @@ const abhi = {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00D9FF,100:0D1117&height=120&section=footer&animation=fadeIn"/>
+```
+🎮  Gaming keeps me sane between deployments
+🌙  Most productive between 10PM – 3AM  
+☕  Coffee-to-code conversion rate: 1:1
+🚀  Goal: Ship something people actually use
+💬  DMs open — let's build something cool
+```
 
-**⭐ Found something useful? Drop a star — it keeps me going! 🚀**
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00D9FF,100:0D1117&height=130&section=footer&animation=fadeIn"/>
+
+### ⭐ If you find my work useful, drop a star — it means the world! 🚀
+
+**Thanks for visiting! Let's connect and build something amazing. 🎉**
 
 </div>
