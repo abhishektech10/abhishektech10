@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-- 🎂 **17 years old** from India 🇮🇳
+- and 🌿**17 years old** from India 🇮🇳
 - 🌱 Currently learning **Docker, Linux & TypeScript**
 - 🎯 Goal — land my first dev job before I turn 19 💪
 - ⚡ Started coding at 16, never looked back
