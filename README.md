@@ -104,15 +104,6 @@
 
 ---
 
-## 💬 Dev Quote of the Day
-
-<div align="center">
-
-![Quote](https://quotes-readme.vercel.app/api/quotes?type=horizontal&theme=dark)
-
-</div>
-
----
 
 ## 🗺️ My Learning Roadmap
 
